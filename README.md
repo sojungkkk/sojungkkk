@@ -6,4 +6,4 @@
   <img src="https://spot.wooribank.com/img/section/nbp/images/ba-1401-puding.svg" width="200">
 </div>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sojungkkk&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sojungkkk&theme=radical&bg_color=00000000)
