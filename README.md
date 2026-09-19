@@ -11,7 +11,3 @@
        style="position: absolute; right: 8%; bottom: 20px;">
 
 </div>
-
-
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sojungkkk&bg_color=00000000&text_color=6BB6E8)
